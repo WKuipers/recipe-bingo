@@ -1,5 +1,7 @@
 # recipe-bingo
 
+Want to add your own resources? Check out `src/recipes.js`!
+
 ## Project setup
 ```
 npm install
@@ -19,6 +21,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
